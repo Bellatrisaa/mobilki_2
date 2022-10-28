@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\SIB\4 kurs\mobilki\mobilki.git\lab1p2\lab1p2\bin\Debug\lab1p2.exe.config
+C:\Users\User\Desktop\SIB\4 kurs\mobilki\mobilki.git\lab1p2\lab1p2\bin\Debug\lab1p2.exe
+C:\Users\User\Desktop\SIB\4 kurs\mobilki\mobilki.git\lab1p2\lab1p2\bin\Debug\lab1p2.pdb
+C:\Users\User\Desktop\SIB\4 kurs\mobilki\mobilki.git\lab1p2\lab1p2\obj\Debug\lab1p2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SIB\4 kurs\mobilki\mobilki.git\lab1p2\lab1p2\obj\Debug\lab1p2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SIB\4 kurs\mobilki\mobilki.git\lab1p2\lab1p2\obj\Debug\lab1p2.exe
+C:\Users\User\Desktop\SIB\4 kurs\mobilki\mobilki.git\lab1p2\lab1p2\obj\Debug\lab1p2.pdb
